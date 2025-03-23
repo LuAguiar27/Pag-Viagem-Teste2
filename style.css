@@ -1,0 +1,21 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  border: solid;
+  width: 1220px;
+}
+
+header {
+  margin-left: 50px;
+}
+
+h3 {
+  color: #E1624F;
+}
+
+img {
+  border-radius: 28px;
+}
+
+p {
+  text-align: center;
+}

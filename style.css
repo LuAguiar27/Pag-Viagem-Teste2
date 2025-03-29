@@ -2,7 +2,6 @@ body {
   font-family: "Open Sans", sans-serif;
   border: solid;
   width: 1220px;
-
 }
 
 header {
@@ -12,7 +11,7 @@ header {
 .p1 {
   font-size: 16px;
   line-height: 22px;
-  font-style: italic; 
+  font-style: italic;
   text-align: center;
   color: #333333;
   margin-top: 24px;
@@ -54,8 +53,29 @@ h2 {
 .description {
   text-align: left;
   font-size: 16px;
+  padding-top: 5px;
 }
 
 .templo1 {
   margin-left: 50px;
+}
+
+.historia {
+  font-weight: bold;
+}
+
+#templo2 {
+  margin-left: 50px;
+
+}
+
+#templo3 {
+  margin-left: 50px;
+
+}
+
+.end {
+  margin: 0px 20px;
+  text-align: center;
+  font-size: 16px;
 }
